@@ -1,0 +1,52 @@
+{
+  "restaurant": [
+    {
+      "platePrice": "20",
+      "plateName": "Cheesecake",
+      "category": "postre",
+      "id": 1
+    },
+    {
+      "platePrice": "24",
+      "plateName": "Rib Eye 400gr",
+      "category": "cortes",
+      "id": 2
+    },
+    {
+      "platePrice": "20",
+      "plateName": "Ensalada Cesar",
+      "category": "ensalada",
+      "id": 3
+    },
+    {
+      "platePrice": "10",
+      "plateName": "Zumo de Maracuyá",
+      "category": "bebida",
+      "id": 4
+    },
+    {
+      "platePrice": "20",
+      "plateName": "Churrasco",
+      "category": "cortes",
+      "id": 5
+    },
+    {
+      "platePrice": "12",
+      "plateName": "Tarta de Zanahoria",
+      "category": "postre",
+      "id": 6
+    },
+    {
+      "platePrice": "10",
+      "plateName": "Zumo de Mora",
+      "category": "bebida",
+      "id": 7
+    },
+    {
+      "platePrice": "20",
+      "plateName": "Ensalada Margarita",
+      "category": "ensalada",
+      "id": 8
+    }
+  ]
+}
